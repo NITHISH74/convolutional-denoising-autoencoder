@@ -28,25 +28,25 @@ We create two networks , one for encoding and one for decoding
 
 
 
-Write your own steps
+
 
 ## PROGRAM:
-'''python
+```python
 
-'''
-
-
-
-## OUTPUT
-
-### Training Loss, Validation Loss Vs Iteration Plot
-
-Include your plot here
-
-### Original vs Noisy Vs Reconstructed Image
-
-Include a few sample images here.
+```
 
 
 
-## RESULT
+## OUTPUT:
+
+### Training Loss, Validation Loss Vs Iteration Plot:
+
+
+
+### Original vs Noisy Vs Reconstructed Image:
+
+
+
+
+
+## RESULT:
