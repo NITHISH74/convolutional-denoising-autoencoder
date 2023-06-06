@@ -1,4 +1,4 @@
-# Ex07--Convolutional Autoencoder for Image Denoising
+# EX07--Convolutional Autoencoder for Image Denoising
 
 ## AIM:
 
