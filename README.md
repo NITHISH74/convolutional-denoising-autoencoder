@@ -115,13 +115,11 @@ plt.show()
 ## OUTPUT:
 
 ### Parameters for the model:
-![op1](https://github.com/Venkatigi/convolutional-denoising-autoencoder/assets/94154252/7d2f8fde-faf6-4b03-8031-303e3d397ea6)
-
+![image](https://github.com/NITHISH74/convolutional-denoising-autoencoder/assets/94164665/7fe5657c-0ab5-4a53-9dca-5db83fd46c54)
 
 
 ### Original vs Noisy Vs Reconstructed Image:
-![op2](https://github.com/Venkatigi/convolutional-denoising-autoencoder/assets/94154252/3f32ceb3-6256-45ae-9d2a-9bc6fbb2b402)
-
+![image](https://github.com/NITHISH74/convolutional-denoising-autoencoder/assets/94164665/57567208-ef57-4b87-b0d3-d25320db9835)
 
 
 
